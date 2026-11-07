@@ -242,7 +242,7 @@ const songs = [
     id: 'song-4',
     title: 'If the World Was Ending',
     artist: 'Lady Gaga & Bruno Mars',
-    note: 'Our dramatic duet. No shame, only love.',
+    note: 'I will be there when the world ends.',
     url: spotifySearch('If the World Was Ending Lady Gaga Bruno Mars'),
   },
   {
@@ -256,7 +256,7 @@ const songs = [
     id: 'song-6',
     title: 'Tu mila toh Haina',
     artist: 'Arijit Singh',
-    note: 'For every version of you, especially the unpolished ones.',
+    note: 'Tu mila when I believed that I will ever meet anyone.',
     url: spotifySearch('Tu mila toh Haina Arijit Singh'),
   },
   {
@@ -276,14 +276,14 @@ const songs = [
   {id: 'song-9',
     title: 'Ordinary',
     artist: 'Alex Warren',
-    note: 'I take one look at you You are taking me out of the ordinary.',
+    note: 'I take one look at you, You are taking me out of the ordinary.',
     url: spotifySearch('Ordinary Alex Warren'),
   },
   {
     id: 'song-10',
     title: 'Tum Se',
     artist: 'OutStation',
-    note: 'For every version of you, especially the unpolished ones.',
+    note: 'My favourite is this in your voice.',
     url: spotifySearch('Tum Se OutStation'),
   },
 ];
